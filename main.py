@@ -9,7 +9,7 @@ API_KEY = config.API_KEY
 client = Client(account_sid, auth_token)
 
 MY_LATITUDE = config.MY_LATITUDE
-MY_LONGITUDE = config.MY_LATITUDE
+MY_LONGITUDE = config.MY_LONGITUDE
 
 
 parameters = {
